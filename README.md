@@ -17,7 +17,16 @@
 ## **📣更新**
 
 <details open>
-<summary><strong>[2025-1-10] 🔥V2.0.2</strong></summary>
+<summary><strong>[2025-1-10] 🔥V2.0.3</strong></summary>
+
+
+* **小助手UI**：修复子图节小助手创建不稳定的情况，图像节点丢失图像的情况下无法创建小助手的情况；
+  
+* **Ollama**：修复因为代理原因导致HTTP502错误
+
+</details>
+<details>
+<summary><strong>[2025-1-10] V2.0.2</strong></summary>
 
 * **标签模块**：修复格式问题，现在可以在自由新建分类和管理标签了。修复预设创建和迁移出错问题；
   
@@ -38,7 +47,6 @@
 * **依赖更新**：避免缺少依赖无法启动问题；
 
 </details>
-
 <details>
 <summary><strong>[2025-12-21] V2.0.0</strong></summary>
 
@@ -390,6 +398,7 @@
 ## **🎀特别感谢以下朋友！**
 
 感谢群友为V2.0.0版本提供规则模板：阿丹、CJL、诺曼底
+
 
 
 
