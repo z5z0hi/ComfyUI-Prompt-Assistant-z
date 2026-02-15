@@ -17,7 +17,14 @@
 ## **📣更新**
 
 <details open>
-<summary><strong>[2025-1-10] 🔥V2.0.3</strong></summary>
+<summary><strong>[2026-2-15] 🔥V2.0.4</strong></summary>
+
+
+* **bug修复**：修复标签和历史功能无法使用的问题；
+
+</details>
+<details>
+<summary><strong>[2026-2-13] 🔥V2.0.3</strong></summary>
 
 
 * **小助手UI**：修复子图节小助手创建不稳定的情况，图像节点丢失图像的情况下无法创建小助手的情况；
@@ -26,7 +33,7 @@
 
 </details>
 <details>
-<summary><strong>[2025-1-10] V2.0.2</strong></summary>
+<summary><strong>[2026-1-10] V2.0.2</strong></summary>
 
 * **标签模块**：修复格式问题，现在可以在自由新建分类和管理标签了。修复预设创建和迁移出错问题；
   
@@ -398,6 +405,7 @@
 ## **🎀特别感谢以下朋友！**
 
 感谢群友为V2.0.0版本提供规则模板：阿丹、CJL、诺曼底
+
 
 
 
