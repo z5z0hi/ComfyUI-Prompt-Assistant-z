@@ -1,3 +1,5 @@
 httpx
+python-dotenv
+httpx-socks[asyncio]
 imageio
 imageio-ffmpeg
